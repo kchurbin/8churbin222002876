@@ -3,7 +3,7 @@ public class beakCountDownProgram1 {
         for (int i = 10; i >= 1; i--) {
             System.out.println(i);
             if (i == 1) {
-                System.out.println("Murakoze Cyane!");
+                System.out.println("we are happy for you!");
                 break;
             }
         }

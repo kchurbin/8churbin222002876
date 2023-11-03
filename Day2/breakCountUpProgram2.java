@@ -1,12 +1,12 @@
 public class breakCountUpProgram2 {
     public static void main(String[] args) {
-        System.out.println("list from 100 to 110");
-        System.out.println("List irakurikira ------");
-        int bara = 100;
+        System.out.println("list from 50 to 80");
+        System.out.println("thanks a lot");
+        int count = 50;
 
-        while (bara <= 110) {
-            System.out.println(bara);
-            bara++;
+        while (count <= 80) {
+            System.out.println(count);
+            count++;
         }
     }
 }
