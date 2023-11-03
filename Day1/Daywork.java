@@ -1,31 +1,31 @@
 public class Daywork {
     public static void main(String[] args) {
-        int iminsi = 5;
+        int months = 5;
 
-        switch (iminsi) {
+        switch (months) {
             case 1:
-                System.out.println(" to is Monday");
+                System.out.println("january  ");
                 break;
             case 2:
-                System.out.println(" to day iTuesday");
+                System.out.println(" february ");
                 break;
             case 3:
-                System.out.println("Wednesday");
+                System.out.println("march");
                 break;
             case 4:
-                System.out.println("Thursday");
+                System.out.println("april");
                 break;
             case 5:
-                System.out.println("Friday");
+                System.out.println("may");
                 break;
             case 6:
-                System.out.println("Saturday");
+                System.out.println("june");
                 break;
             case 7:
-                System.out.println("Sunday");
+                System.out.println("july");
                 break;
             default:
-                System.out.println("Invalid day of the week!");
+                System.out.println("Invalid month ");
                 break;
         }
     }
