@@ -1,4 +1,4 @@
-public class NestedLoopPattern1 {
+public class NestedLoop1 {
     public static void main(String[] args) {
         int rows = 5;
 
