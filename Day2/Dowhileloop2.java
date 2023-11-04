@@ -1,4 +1,4 @@
-public class DowhileloopCDown2 {
+public class Dowhileloop2 {
     public static void main(String[] args) {
         int cows = 15;
 
