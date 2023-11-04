@@ -1,4 +1,4 @@
-public class whileloopSumOfNumber1 {
+public class whileloop1 {
     public static void main(String[] args) {
         int sum = 0;
         int number = 1;
@@ -8,6 +8,6 @@ public class whileloopSumOfNumber1 {
             number++;
         }
 
-        System.out.println("The sum of numbers kuva kuri 1 to 10 is: " + sum);
+        System.out.println("The sum of numbers from 1 up to 10 is: " + sum);
     }
 }
