@@ -1,4 +1,4 @@
-public class breakCountUpProgram2 {
+public class breakstatement2 {
     public static void main(String[] args) {
         System.out.println("list from 50 to 80");
         System.out.println("thanks a lot");
