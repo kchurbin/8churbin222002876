@@ -1,4 +1,4 @@
-public class SimpleInterestCalculator {
+public class SimpleInterest {
     static void interest() {
         double principal = 100000;
         double rate = 5;
