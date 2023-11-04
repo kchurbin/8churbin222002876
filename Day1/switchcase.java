@@ -1,4 +1,4 @@
-public class Daywork {
+public class switchcase {
     public static void main(String[] args) {
         int months = 5;
 
