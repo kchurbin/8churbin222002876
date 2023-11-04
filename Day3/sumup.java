@@ -1,4 +1,4 @@
-public class Igiteranyo {
+public class sumup {
   static void sum() {
     int n1 = 3;
     int n2 = 4;
