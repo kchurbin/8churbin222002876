@@ -1,6 +1,6 @@
 import java.util.Scanner; // Import the Scanner class 
 
-class Kwinjiza {
+class myobject {
   public static void main(String[] args) {
     Scanner myObj = new Scanner(System.in); // object ya scanner
 
