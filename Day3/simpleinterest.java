@@ -4,10 +4,10 @@ public class simpleinterest {
     double p = 100000;
     double r = 0.05;
     int time = 5;
-    double si;
+    double t;
     si = 100000 * 0.05 * 5 / 100;
 
-    System.out.println("The simple interest of Mr.Bob=" + si);
+    System.out.println("The simple interest of Mr.Bob=" + t);
   }
 
   public static void main(String[] args) {
