@@ -4,8 +4,8 @@ public class Dowhileloop1 {
         int number = 10;
 
         do {
-            System.out.println(bara);
-            bara--;
+            System.out.println(number);
+            number--;
         } while (number >= 1);
     }
 }
